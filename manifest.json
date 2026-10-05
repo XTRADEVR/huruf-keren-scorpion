@@ -1,0 +1,11 @@
+{
+  "name": "SCORPION HURUF KEREN",
+  "short_name": "SCORPION",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#060a14",
+  "theme_color": "#00ff88",
+  "icons": [
+    {"src": "huruf.jpg","sizes": "512x512","type": "image/png"}
+  ]
+}
